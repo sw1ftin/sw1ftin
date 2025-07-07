@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   <a href="https://sw1ft.me">
+   <a href="https://sw1ft.ru">
       <img src="https://komarev.com/ghpvc/?username=sw1ftin&style=for-the-badge" alt="Visits" />
    </a>
   <br>
